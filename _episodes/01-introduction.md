@@ -3,13 +3,13 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
+- "What are expression and protein quantitative trait loci (eQTL and pQTL)?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Describe the effects of eQTL and pQTL in gene regulation."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "Most genome variants identified by genome-wide association studies (GWAS) reside in non-coding regions, and are likely to regulate gene expression."
 ---
-FIXME
+Understanding the effects of genome variants in the cell can shed light on disease state or organismal phenotype. Variants identified in genome-wide association studies (GWAS) are primarily located in non-coding regions, and are likely to be involved in gene regulation. Expression and protein quantitative trait loci (eQTL and pQTL) can be identified from gene or protein expression measurements in cells or tissues.
 
 {% include links.md %}
 

@@ -11,7 +11,10 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> Learners should:
+> Understand fundamental genetic principles
+> Be competent in the R statistical programming language
+> Understand quantitative trait locus (QTL) mapping
 {: .prereq}
 
 {% include links.md %}
